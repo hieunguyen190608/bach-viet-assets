@@ -7,5 +7,20 @@
  "giai": "Mải vui mà quên việc chính.",
  "luan": "💼 **Công việc · học hành:** Mải việc phụ, xem lại việc chính.\n💞 **Tình cảm:** Dành thời gian thật cho người bên cạnh.\n🪙 **Tài lộc:** Chi cho vui hơi nhiều, nên tiết chế.\n🏡 **Gia đạo:** Hợp về thăm nhà.",
  "lang": "Điểm danh, làm việc đều đặn.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que10.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que10.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

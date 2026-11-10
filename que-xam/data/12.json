@@ -7,5 +7,20 @@
  "giai": "Có hiểu lầm với người thân, bạn bè. Chủ động nói ra sẽ hòa.",
  "luan": "💼 **Công việc · học hành:** Hiểu lầm với đồng nghiệp hoặc bạn học, nói rõ sớm.\n💞 **Tình cảm:** Hờn dỗi nhỏ, một lời xin lỗi là xong.\n🪙 **Tài lộc:** Ổn; tránh vay mượn bạn bè.\n🏡 **Gia đạo:** Anh chị em cần hòa.",
  "lang": "Rủ bạn cùng đi săn.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que12.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que12.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

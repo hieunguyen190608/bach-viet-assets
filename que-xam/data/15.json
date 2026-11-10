@@ -7,5 +7,20 @@
  "giai": "Người ngay thẳng gặp vận may. Đối đầu việc khó hôm nay sẽ thắng.",
  "luan": "💼 **Công việc · học hành:** Ngay thẳng giúp vượt qua việc khó.\n💞 **Tình cảm:** Chân thành được đáp lại.\n🪙 **Tài lộc:** Có lộc nhỏ bất ngờ.\n🏡 **Gia đạo:** Yên ổn.",
  "lang": "Đi săn.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que15.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que15.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

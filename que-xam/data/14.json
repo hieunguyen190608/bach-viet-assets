@@ -7,5 +7,20 @@
  "giai": "Chuyện trong nhà cần vun vén. Việc nhỏ đều đặn thì yên ổn.",
  "luan": "💼 **Công việc · học hành:** Làm xong việc tồn đọng rồi hãy nhận việc mới.\n💞 **Tình cảm:** Quan tâm những điều nhỏ mỗi ngày.\n🪙 **Tài lộc:** Dọn lại các khoản chi tiêu.\n🏡 **Gia đạo:** Hợp dọn nhà, nấu ăn cùng nhau.",
  "lang": "Điểm danh.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que14.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que14.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

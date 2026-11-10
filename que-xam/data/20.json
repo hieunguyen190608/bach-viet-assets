@@ -7,5 +7,20 @@
  "giai": "Nhớ ơn người đi trước. Giúp người hôm nay sẽ được đáp lại.",
  "luan": "💼 **Công việc · học hành:** Nhờ người đi trước chỉ, nhớ nói lời cảm ơn.\n💞 **Tình cảm:** Ghi nhận những điều người kia đã làm.\n🪙 **Tài lộc:** Đáp lễ, trả ơn đúng hẹn.\n🏡 **Gia đạo:** Hỏi thăm ông bà, cha mẹ.",
  "lang": "Giúp người mới nhập tịch.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que20.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que20.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

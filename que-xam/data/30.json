@@ -7,5 +7,20 @@
  "giai": "Ôm việc quá sức.",
  "luan": "💼 **Công việc · học hành:** Đừng ôm quá sức; xin bớt việc nếu cần.\n💞 **Tình cảm:** Đừng hứa điều mình không làm được.\n🪙 **Tài lộc:** Không chi quá khả năng.\n🏡 **Gia đạo:** Nghe lời người thân can.\n🔑 **Cách gỡ:** Liệu sức mà làm.",
  "lang": "Săn Rừng trúc.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que30.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que30.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

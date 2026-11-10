@@ -7,5 +7,20 @@
  "giai": "Hay quên việc nhỏ dẫn tới chuyện lớn.",
  "luan": "💼 **Công việc · học hành:** Rà lại hạn nộp và những lời đã hứa.\n💞 **Tình cảm:** Nhớ những ngày quan trọng của người kia.\n🪙 **Tài lộc:** Kiểm lại khoản nhỏ hay quên như phí, hóa đơn.\n🏡 **Gia đạo:** Gọi hỏi thăm người lâu rồi chưa liên lạc.",
  "lang": "Điểm danh.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que05.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que05.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

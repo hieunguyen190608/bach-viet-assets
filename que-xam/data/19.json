@@ -7,5 +7,20 @@
  "giai": "Vận đổi bất ngờ, gặp người giúp. Mạnh dạn đón cơ hội.",
  "luan": "💼 **Công việc · học hành:** Có cơ hội mới và người giúp sức.\n💞 **Tình cảm:** Duyên đến bất ngờ.\n🪙 **Tài lộc:** Vận tiền khởi sắc.\n🏡 **Gia đạo:** Có tin vui.",
  "lang": "Thử vận đi săn.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que19.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que19.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

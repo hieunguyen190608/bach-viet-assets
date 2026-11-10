@@ -7,5 +7,20 @@
  "giai": "Chưa đúng thời, giữ sức chờ cơ hội.",
  "luan": "💼 **Công việc · học hành:** Chưa phải lúc; chuẩn bị kỹ.\n💞 **Tình cảm:** Kiên nhẫn.\n🪙 **Tài lộc:** Giữ tiền chờ dịp.\n🏡 **Gia đạo:** Yên.",
  "lang": "Điểm danh rồi nghỉ.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que29.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que29.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

@@ -7,5 +7,20 @@
  "giai": "Có tranh chấp kéo dài. Giữ vững chỗ đứng, chưa nên ra đòn trước.",
  "luan": "💼 **Công việc · học hành:** Có cạnh tranh; giữ chắc phần việc của mình.\n💞 **Tình cảm:** Cãi nhau nhỏ thì nhường một bước.\n🪙 **Tài lộc:** Giữ tiền, chưa nên liều.\n🏡 **Gia đạo:** Yên ổn nếu không cố thắng lý.",
  "lang": "Gửi kho.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que07.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que07.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

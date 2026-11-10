@@ -7,5 +7,20 @@
  "giai": "Dễ tin người, lộ điều không nên lộ.",
  "luan": "💼 **Công việc · học hành:** Giữ kín kế hoạch, chưa nên khoe trước.\n💞 **Tình cảm:** Chuyện riêng của hai người chớ kể với người ngoài.\n🪙 **Tài lộc:** Cẩn thận khi cho vay, chuyển tiền; xem kỹ trước khi gửi.\n🏡 **Gia đạo:** Việc nhà để trong nhà.\n🔑 **Cách gỡ:** Giữ lời, giữ kín là qua.",
  "lang": "Hạn chế chuyển Đồng hôm nay.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que03.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que03.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

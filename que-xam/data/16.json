@@ -7,5 +7,20 @@
  "giai": "Có lộc nhưng phải biết đủ.",
  "luan": "💼 **Công việc · học hành:** Được giao thêm việc, nhận vừa sức.\n💞 **Tình cảm:** Đừng đòi hỏi quá.\n🪙 **Tài lộc:** Có lộc; giữ vừa phải, đừng tham.\n🏡 **Gia đạo:** Anh em chia phần cho công bằng.",
  "lang": "Gửi phần Đồng dư vào kho.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que16.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que16.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

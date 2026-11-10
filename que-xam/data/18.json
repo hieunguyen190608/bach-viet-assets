@@ -7,5 +7,20 @@
  "giai": "Đang bị xem nhẹ. Cứ làm tốt phần mình, vận sẽ đổi.",
  "luan": "💼 **Công việc · học hành:** Bị đánh giá thấp; cứ làm tốt, kết quả tự nói.\n💞 **Tình cảm:** Người hợp với mình sẽ nhìn thấy điều bên trong.\n🪙 **Tài lộc:** Chậm mà chắc.\n🏡 **Gia đạo:** Được thương dù không nói ra.",
  "lang": "Nhận việc làng.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que18.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que18.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

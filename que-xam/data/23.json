@@ -7,5 +7,20 @@
  "giai": "Dẹp được mối lo lớn. Hợp ra tay giải quyết việc khó.",
  "luan": "💼 **Công việc · học hành:** Giải quyết dứt điểm việc khó.\n💞 **Tình cảm:** Vượt qua trở ngại, gần nhau hơn.\n🪙 **Tài lộc:** Gỡ được khoản đang kẹt.\n🏡 **Gia đạo:** Hết lo.",
  "lang": "Đi săn.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que23.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que23.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

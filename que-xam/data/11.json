@@ -7,5 +7,20 @@
  "giai": "Hoàn cảnh khó nhưng tự lực sẽ qua.",
  "luan": "💼 **Công việc · học hành:** Việc khó nhưng tự xoay được, đừng nản.\n💞 **Tình cảm:** Tin vào giá trị của chính mình.\n🪙 **Tài lộc:** Tự làm ra, đừng trông vận may.\n🏡 **Gia đạo:** Có thể xa cách đôi chút, giữ liên lạc thường xuyên.",
  "lang": "Nhận việc làng.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que11.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que11.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

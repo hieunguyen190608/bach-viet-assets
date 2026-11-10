@@ -7,5 +7,20 @@
  "giai": "Trời đang thử lòng người.",
  "luan": "💼 **Công việc · học hành:** Hòa nhã với người yếu thế hơn mình.\n💞 **Tình cảm:** Tránh nói lời làm tổn thương.\n🪙 **Tài lộc:** Giúp đỡ trong khả năng, rộng rãi đúng chỗ.\n🏡 **Gia đạo:** Quan tâm người lớn tuổi.\n🔑 **Cách gỡ:** Một việc tốt hóa giải được.",
  "lang": "Giúp người mới nhập tịch.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que25.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que25.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

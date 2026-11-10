@@ -7,5 +7,20 @@
  "giai": "Sức tích lâu nay đến lúc bộc phát. Việc lớn nên làm ngay.",
  "luan": "💼 **Công việc · học hành:** Đến lúc thể hiện, mạnh dạn nhận việc khó.\n💞 **Tình cảm:** Điều giữ trong lòng lâu nay, hôm nay hợp bày tỏ.\n🪙 **Tài lộc:** Công sức bỏ ra bấy lâu bắt đầu có kết quả.\n🏡 **Gia đạo:** Được người nhà ủng hộ.",
  "lang": "Đi săn vùng khó nhất mình vào được.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que04.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que04.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }

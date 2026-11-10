@@ -7,5 +7,20 @@
  "giai": "Chủ quan, coi nhẹ thử thách.",
  "luan": "💼 **Công việc · học hành:** Đừng chủ quan; học thêm trước khi làm.\n💞 **Tình cảm:** Lắng nghe nhiều hơn phán xét.\n🪙 **Tài lộc:** Không bỏ tiền vào thứ mình chưa hiểu.\n🏡 **Gia đạo:** Nghe ý người lớn trong nhà.\n🔑 **Cách gỡ:** Khiêm tốn học hỏi.",
  "lang": "Săn Rừng trúc thay vì vùng khó.",
- "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que21.jpg"
+ "anh": "https://raw.githubusercontent.com/hieunguyen190608/bach-viet-assets/main/que-xam/que21.jpg",
+ "huong": [
+  "Đông",
+  "Tây",
+  "Nam",
+  "Bắc",
+  "Đông Nam",
+  "Tây Bắc"
+ ],
+ "mau": [
+  "chàm",
+  "đỏ son",
+  "vàng đồng",
+  "xanh ngọc",
+  "trắng ngà"
+ ]
 }
